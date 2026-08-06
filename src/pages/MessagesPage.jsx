@@ -19,6 +19,7 @@ import Reaction from '../images/series-break/ReactiontotheResurrection.png'
 // God's Voice Series--------------------------------------------------------------------------
 import RediscoverGodVoice from '../images/Hearing-God-Voice/RediscoverGodVoice.png'
 import ReduceBackgroundNoise from '../images/Hearing-God-Voice/ReduceBackgroundNoise.png'
+import Reposition from '../images/Hearing-God-Voice/Reposition! You Sound Choppy.png'
 //----
 
 // LUKE SERIES--------------------------------------------------------------------------
@@ -101,6 +102,15 @@ import TheGoodNews from '../images/message-images-december/GoodNews.png'
 
 const allMessage = [
   // HEARING GOD'S VOICE SERIES
+  {
+            messageTitle: "Reposition You Sound Choppy",
+            videoUrl: "https://www.youtube.com/watch?v=ooXmgOzkyFc",
+            imgUrl: Reposition,
+            messageBy: 'Bro. Boni Somook',
+            datePosted: 'May 03, 2026',
+            imageSlide: 'https://canva.link/1748u464wysgutc',
+            description: `‘Call to me and I will answer you and tell you great and unsearchable things you do not know.’`
+    },
   {
             messageTitle: "Reduces Background Noise",
             videoUrl: "https://www.youtube.com/watch?v=a6p0rci_LBY",

@@ -1,16 +1,16 @@
 
 
-import Reposition from '../../images/Hearing-God-Voice/Reposition! You Sound Choppy.png'
+import AlmostPersuaded from '../../images/IntoUnknown/August 2, 2026.png'
 
 const latestMessage = [
    {
-          messageTitle: "Reposition You Sound Choppy",
-          videoUrl: "https://www.youtube.com/watch?v=ooXmgOzkyFc",
-          imgUrl: Reposition,
-          messageBy: 'Bro. Boni Somook',
-          datePosted: 'May 03, 2026',
-          imageSlide: 'https://canva.link/1748u464wysgutc',
-          description: `‘Call to me and I will answer you and tell you great and unsearchable things you do not know.’`
+          messageTitle: "Almost Persuaded, But Not Yet",
+          videoUrl: "https://www.youtube.com/watch?v=vhXJiodeJzQ",
+          imgUrl: AlmostPersuaded,
+          messageBy: 'Bro. Harry Nietes',
+          datePosted: 'Aug 02, 2026',
+          imageSlide: 'https://canva.link/gad92vxd06g2lus',
+          description: `"Being close to the Kingdom is not the same as entering it."`
       }
 ]
 
